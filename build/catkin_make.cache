@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/ayush/agv_arm/devel -DCMAKE_INSTALL_PREFIX=/home/ayush/agv_arm/install -G Unix Makefiles
